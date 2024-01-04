@@ -1,0 +1,1 @@
+This rock-paper-scissors game features an attractive UI and a sophisticated scoring system. Users receive instructions on whether to win or lose against the computer, and the game employs a remarkable algorithm for an engaging experience.
